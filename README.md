@@ -1,17 +1,9 @@
-# **Pharmacy-Management-System**
-
-**How to run the Project:**
-1. Clone this repo using 
-   - `git clone https://github.com/syedibrahim/Pharmacy-Management-System.git`
-2. Install Eclipse J2EE or any other IDE of your choice.
-3. Use WAMP or XAMPP or any server of your choice.
-4. First create the MySql database on WAMP server using the sql file in the repo
-5. And then build and run the project from the IDE. 
+# **Pharmacy-Management-System
 
 **Login Information** <br>
  ```
- id :1
- password: admin 
+ id :0
+ password: 0
  ```
  note: The login information can be changed while setting up MySQL or via UI later
  
@@ -94,8 +86,8 @@ By using MySQL commands and its database this website Pharmacy management tends 
 
 **Login Information** <br>
  ```
- id :1
- password: admin 
+ id :0
+ password: 0
  ```
  <br>
 
